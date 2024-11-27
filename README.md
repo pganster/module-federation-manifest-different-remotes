@@ -1,6 +1,6 @@
 # Module Federation Manifest from other Remote
 
-
+Description of this issue can be found [here](https://github.com/module-federation/core/issues/3288).
 
 ## Reproduction
 1. Add the following lines to the `/etc/hosts` on your machine:
